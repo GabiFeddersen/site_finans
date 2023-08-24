@@ -1,0 +1,17 @@
+.cor-inicio{
+    background: #E8ECEF;
+}
+
+.btn-botao{
+    background: #105F7C;
+    color: #E8ECEF;
+}
+
+.p-itens{
+    font-size: 23px;
+}
+
+.preco{
+	background: linear-gradient(269.94deg, #4778F8 -20.45%, rgba(140, 44, 215, 0.99) 108.67%);
+	border-radius: 20px
+}

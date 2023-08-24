@@ -1,0 +1,67 @@
+.cor-navbar{
+	background: #2B1464;
+	
+}
+
+#home {
+	background: radial-gradient(50% 50% at 50% 50%, rgba(99, 27, 223, 0.63) 0%, #631BDF 100%);
+	color: white;
+}
+
+#leitores {
+	background: #E7E5F2;
+	color: #2B1464;
+	
+}
+
+#leitoresfont{
+	font-weight: bold
+}
+
+
+/*Cards*/
+
+.style_card{
+	background: #F7F7F7;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+	border-radius: 18px;
+}
+
+.lista {
+	font-size: 20px;
+}
+
+.footer{
+	background: radial-gradient(50% 50% at 50% 50%, rgba(99, 27, 223, 0.63) 0%, #631BDF 100%);
+	color: white;
+	
+}
+
+/*botao rgb(255, 189, 33)*/
+/*estrela rgb(251, 184, 27);*/
+
+.sec5{
+	background: linear-gradient(269.94deg, #4778F8 -20.45%, rgba(140, 44, 215, 0.99) 108.67%);
+	border-radius: 20px
+}
+
+.textop{
+	font-size: 20px;
+}
+
+.preco{
+	background: linear-gradient(269.94deg, #4778F8 -20.45%, rgba(140, 44, 215, 0.99) 108.67%) !important; 
+	color: white !important;
+	
+}
+
+.span{
+	font-size: 30px;
+	
+}
+
+
+/*.cor_botao{
+	background: rgba(150, 225, 35, 0.67);
+	
+}*/
